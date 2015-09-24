@@ -17,7 +17,10 @@
         "sensio/distribution-bundle": "~4.0",
         "sensio/framework-extra-bundle": "^3.0.2",
         "incenteev/composer-parameter-handler": "~2.0",
-        "doctrine/dbal": "~2.4"
+        "doctrine/dbal": "~2.4",
+
+        "google/apiclient": "1.*",
+        "hwi/oauth-bundle": "^0.3.9"
     },
     "require-dev": {
         "sensio/generator-bundle": "~2.3"

@@ -1,0 +1,4 @@
+services:
+#    rct.example:
+#        class: RCTBundle\Example
+#        arguments: [@service_id, "plain_value", %parameter%]
